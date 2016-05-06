@@ -1,0 +1,2 @@
+Goal = 0x7f96887eab90
+goal->flags = 1

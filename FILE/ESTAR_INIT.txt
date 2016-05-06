@@ -1,0 +1,2 @@
+INSIDE ESTAR_INIT function.
+
